@@ -1,0 +1,13 @@
+{
+  "name": "valmierabest",
+  "version": "1.0.0",
+  "description": "VALMIERA BEST",
+  "main": "index.js",
+  "repository": "https://github.com/KaarlisCaune/valmierabest.git",
+  "author": "Karlis Caune",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
